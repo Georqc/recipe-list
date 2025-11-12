@@ -51,4 +51,4 @@ Users can browse, swipe, and save movies they want to watch.
 
 ### Tech Stack
 
-React • React Router • TMDB API • Firebase (optional)
+React • React Router • TMDB API • Firebase 
